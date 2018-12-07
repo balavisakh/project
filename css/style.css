@@ -1,0 +1,101 @@
+/*Navbar color*/
+.bg-light
+{
+    background-color: #1d89be !important;
+}
+/*Navbar text color*/
+a
+{
+    color: #fff !important;
+}
+/*Dropdown menu color and remove the border*/
+.dropdown-menu
+{
+    background-color: #1d89be !important;
+    border: none !important;
+}
+/*Dropdown item color*/
+.dropdown-item
+{
+    background-color: #1d89be;
+}
+/*Dropdown item hover color*/
+.dropdown-item:hover
+{
+    background-color: #1d89be !important;
+}
+/*Icon color and size change*/
+.fa-user
+{
+    font-size: 1rem;
+    color: #fff;
+}
+/*slider image caption background adjustments*/
+.slideimage
+{
+    background-color: #1d89be;
+    opacity: 0.5;
+    bottom: 0;
+    height: 0;
+    line-height: 0; /*used to adjust the height of the text in a image*/
+    left: 0;
+    right: 0;
+    border-bottom-left-radius: 1.25rem;
+    border-bottom-right-radius: 1.25rem;
+
+}
+/*To adjust the image caption border*/
+.image
+{
+    background-color: #1d89be;
+    opacity: 0.5;
+    height: 0;
+    line-height: 0;
+    bottom: 0;
+    left: -6px;
+    right: -6px;
+    border-bottom-left-radius: 1.25rem;
+    border-bottom-right-radius: 1.25rem;
+}
+/*To adjust the caption size*/
+p
+{
+    font-size: 25px;
+}
+
+
+/*For removing the border of a toggler icon*/
+.navbar-dark .navbar-toggler
+{
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+}
+/*padding between the images*/
+.pad
+{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+/*to adjust the height of the map in desktop view*/
+.map
+{
+    height: 100% !important;
+    width: 100% !important;
+    border-radius: 1.95rem !important;
+}
+/*For making round corners in a image*/
+.rounded
+{
+    border-radius: 1.25rem !important;
+}
+
+
+
+
+
+
+
+
+
